@@ -1,25 +1,14 @@
-# Student Assessment System
+### Contributing->
 
-## Project Information
-### Developers
-- **Shoun Salaji** (2447248)
-- **Yojit Shinde** (2447260)
+```bash
+git branch <branch_name>
+#checkout new branch and make changes
+#Raise PR to develop branch
+```
 
-### Guide
-Dr. Sudhakar Tharuman  
+~~Dr. Sudhakar Tharuman  
 Department of Computer Science  
-CHRIST (Deemed to be University), Bengaluru-29
-
-## Table of Contents
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Setup](#setup)
-4. [Usage](#usage)
-5. [Architecture](#architecture)
-6. [Technology Stack](#technology-stack)
-7. [Screenshots](#screenshots)
-8. [Development Status](#development-status)
-9. [SDG Alignment](#sdg-alignment)
+CHRIST (Deemed to be University), Bengaluru-29~~
 
 ## Overview
 The Student Assessment System is an advanced grading solution designed to automate evaluation processes, detect plagiarism, and identify malpractice in academic submissions. It leverages machine learning, AI-based content analysis, and OCR for handwritten assignments to ensure academic integrity and streamline grading workflows.
