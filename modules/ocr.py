@@ -4,9 +4,11 @@ from pdf2image import convert_from_path
 import tempfile
 import io
 from PIL import Image
+# import json
 
 # Initialize the Google Cloud Vision client
 client = vision.ImageAnnotatorClient.from_service_account_json('key.json')
+# json_key = json.loads(st.secrets["google_cloud"]["key"])
 
 def perform_ocr(file_path, log_callback=None):
     """Perform OCR using Google Cloud Vision API"""

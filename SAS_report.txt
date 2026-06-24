@@ -25,6 +25,13 @@ Identify content similarity with online sources.
 Highlight suspicious sections.
 Malpractice Detection:
 Detect duplicate submissions between students.
+----------------------------------------
+Module 3: OMR Verification
+Input: Correct OMR sheets and multiple student OMR sheets
+verification.
+Features:
+
+----------------------------------------
 
 Improvements:
 Check/compare assignments within classmates
