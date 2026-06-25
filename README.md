@@ -1,14 +1,10 @@
 <span style="color: red;">*SAS Platform — 3-Month Pre-Development Planning Roadmap — confidential*</span> 
 <span style="color: green;">**This is a draft document - can be modified anytime**</span>  
 
-[README](README.md) | [STACK](STACK.md)
 
 ---
 
-> **The purpose of this document:** Every week is dedicated to research, decisions, diagrams, and documented agreements Upload it to the shared repository. The goal: when Month 4 begins, you write code with zero ambiguity.
-
----
-
+>  [navigate_to_stack](STACK.md)
 
 # MONTH 1 — Research & Foundational Decisions
 ### Weeks 1–4 | Understand the problem deeply before touching a single line of architecture
