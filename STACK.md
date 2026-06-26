@@ -10,3 +10,4 @@
 
 ![Deployment architecture diagram](assets/sas_cicd_docker_hub_flow.png)
 
+> Flow not yet finalized. The above diagram is a draft and will be updated in the future.
